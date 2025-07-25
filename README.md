@@ -1,8 +1,11 @@
 # PERSONALYZE
 
 **Personalyze** is a lightweight AI-powered web application designed to predict whether a person is an **Introvert** or **Extrovert** based on social behavior inputs. The app features a machine learning backend and a clean Streamlit frontend—packaged and deployed using Docker.
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmx2ZWs1bDYyZzFqOTh5ODJ3cXpqMmpzMG5iNHVkZjRiaXE5MWo0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ie3U6gTmbY4KTQtOPJ/giphy.gif"  />
+</div>
+<br> 
 
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmx2ZWs1bDYyZzFqOTh5ODJ3cXpqMmpzMG5iNHVkZjRiaXE5MWo0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ie3U6gTmbY4KTQtOPJ/giphy.gif
 ---
 
 ## 🔍 What it Does
