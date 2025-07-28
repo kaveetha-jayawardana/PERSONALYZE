@@ -1,4 +1,5 @@
-# PERSONALYZE
+<h1 align="center"><b>PERSONALYZE</b></h1>
+<h3 align="center"><i>A Plotly-powered R Dashboard using Logistic Regression to visualize and analyze Heart Failure clinical records for predictions and insights</i></h3> 
 
 **Personalyze** is a lightweight AI-powered web application designed to predict whether a person is an **Introvert** or **Extrovert** based on social behavior inputs. The app features a machine learning backend and a clean Streamlit frontend—packaged and deployed using Docker.
 <div align="center">
@@ -10,14 +11,13 @@
 
 ## 🔍 What it Does
 
-This app uses a trained classification model to analyze:
+This app uses a trained classification model to analyze determine your personality type based on factors :
 - Time spent alone
 - Stage fear level
 - Social event attendance
 - Social media activity
 - Friend circle size
-- Post frequency  
-...and more to determine your personality type.
+- Post frequency
 
 ---
 
